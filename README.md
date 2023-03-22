@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div>
-<img align="right" src="C:\Users\K THEJ KIRAN\Desktop\python gif.gif" width="40%"/>
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&psig=AOvVaw1wOj7bdg9VGTCwKEHMrGae&ust=1679590777153000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjmga-B8P0CFQAAAAAdAAAAABAE" width="40%"/>
   <br>
 <body>
 <img src="Desktop\PNG File (.png)">
