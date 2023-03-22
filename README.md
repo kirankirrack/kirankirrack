@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="C:\Users\K THEJ KIRAN\Desktop\python gif.gif" width="40%"/>
   <br>
 <body>
 <img src="Desktop\PNG File (.png)">
