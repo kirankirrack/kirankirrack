@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif"/>
   <br>
 </div>
-
-<div> 
-  <jsname="IOBa3c">
-    </div>
