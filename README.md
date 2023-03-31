@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif"/>
   <br>
-  </div>
-<div>
-<img src="Desktop\PNG File (.png)">
 </div>
+
