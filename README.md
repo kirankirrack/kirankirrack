@@ -11,11 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kthejkiran4@gmail.com
 - 😄 Pronouns:..
 - ⚡ Fun fact: ...
-<div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif"/>
-  <br>
-</div>
-<
+
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
